@@ -1,0 +1,21 @@
+open|What number comes right after 7?|8||
+open|What number comes right after 12?|13||
+open|What number comes right before 10?|9||
+open|What number comes right before 5?|4||
+mc|What comes after 7?|8|6|8
+mc|What comes after 9?|10|10|12
+mc|What comes before 10?|9|9|11
+open|What is 2 + 3?|5||
+open|What is 4 + 1?|5||
+open|What is 3 + 3?|6||
+open|What is 6 - 2?|4||
+open|What is 9 - 4?|5||
+mc|What is 2 + 2?|4|3|4
+mc|What is 5 + 1?|6|6|7
+mc|What is 8 - 3?|5|5|4
+open|Count by ones: 1, 2, 3, what comes next?|4||
+open|Count by twos: 2, 4, 6, what comes next?|8||
+mc|Which number is bigger, 7 or 4?|7|7|4
+mc|Which number is smaller, 9 or 3?|3|9|3
+open|How many fingers are on one hand?|5||
+open|How many days are in a week?|7||

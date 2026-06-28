@@ -1,0 +1,21 @@
+open|Blend the sounds: c-a-t. What word is it?|cat||
+open|Blend the sounds: d-o-g. What word is it?|dog||
+open|Blend the sounds: s-u-n. What word is it?|sun||
+open|Blend the sounds: h-a-t. What word is it?|hat||
+open|Blend the sounds: p-i-g. What word is it?|pig||
+open|Blend the sounds: r-u-n. What word is it?|run||
+open|Blend the sounds: b-e-d. What word is it?|bed||
+open|Blend the sounds: t-o-p. What word is it?|top||
+mc|I am red and round, and children like to eat me. What am I?|apple|apple|orange
+mc|I have four legs, I bark, and I am a pet. What am I?|dog|dog|cat
+mc|I shine in the sky at night. What am I?|moon|moon|sun
+mc|You wear me on your feet. What am I?|shoe|shoe|hat
+mc|I am yellow and curved, and monkeys like to eat me. What am I?|banana|banana|mango
+mc|I float on water and I am big and made of wood or metal. What am I?|boat|boat|car
+mc|I have wings and I can fly in the sky. What am I?|bird|bird|fish
+open|What is the first letter of the word 'banana'?|b||
+open|What is the first letter of the word 'fish'?|f||
+open|What is the last letter of the word 'cat'?|t||
+mc|Which word rhymes with 'hat'?|cat|cat|dog
+mc|Which word rhymes with 'pig'?|big|big|sun
+mc|Which word rhymes with 'sun'|run|run|top
