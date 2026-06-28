@@ -1,2 +1,4 @@
-# Phonics_numbers_quest
-A console-based literacy and numeracy game for primary learners_Stanford Code in Place final project
+Phonics & Numbers Quest
+A console-based classroom game designed to help close basic literacy and numeracy gaps for early primary learners (ages 6-9). Built for real classroom constraints: one shared screen, no individual student devices, and a teacher who plays "game master" — reading questions aloud, taking the class's answers, and tracking each learner's score on a live leaderboard.
+The game has two content areas: Word Mode (phonics — sound-blending, rhyming, first/last letters) and Number Mode (numeracy — counting, sequencing, basic addition/subtraction), plus a Mixed Mode. Question banks are stored in plain text files, so teachers can edit or expand them without touching the code.
+Built using variables, strings, lists, dictionaries, functions, loops, and file reading — and inspired by my work as a Leadership Associate at Lead For Ghana, mentoring learners at an underserved primary school in Ghana.
